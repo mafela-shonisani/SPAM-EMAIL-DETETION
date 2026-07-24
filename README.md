@@ -149,8 +149,7 @@ spam-email-detection/
 ├── spam.csv
 ├── spam_detection.ipynb
 ├── README.md
-├── requirements.txt
-└── .gitignore
+
 ```
 
 ## Author
